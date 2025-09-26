@@ -1,0 +1,5 @@
+{
+  "name": "AI Search Problem Formulation",
+  "description": "An interactive web application that illustrates the formulation of classic AI search problems: Chess, the 8-Puzzle, and the 8-Queens problem. Each example details the state representation, state space, actions, transition model, and goal conditions.",
+  "requestFramePermissions": []
+}
